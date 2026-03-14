@@ -1,0 +1,10 @@
+:HL["/earth/_next/static/chunks/15e7e7111dec7391.css","style"]
+:HL["/earth/_next/static/media/AppleGaramond-s.p.4dc03ccb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/earth/_next/static/media/AppleGaramond_Bold-s.p.f510d689.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/earth/_next/static/media/AppleGaramond_BoldItalic-s.p.ffd4bdd8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/earth/_next/static/media/AppleGaramond_Italic-s.p.33f9d7b3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/earth/_next/static/media/AppleGaramond_Light-s.p.a8e50718.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/earth/_next/static/media/AppleGaramond_LightItalic-s.p.108b1c1f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/earth/_next/static/media/InterVariable-s.p.53d7b668.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/earth/_next/static/media/InterVariable_Italic-s.p.8c0e9517.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"buildId":"fOWHtnJZCBv1z85AwYVCa","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
